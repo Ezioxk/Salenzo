@@ -1,2 +1,0 @@
-# Salenzo
-PHYSICAL DEVICE
